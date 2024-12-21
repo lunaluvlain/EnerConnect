@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import networkx as nx
 import streamlit as st
 from math import radians, sin, cos, sqrt, atan2
 import pydeck as pdk
