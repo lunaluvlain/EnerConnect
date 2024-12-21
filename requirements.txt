@@ -79,7 +79,6 @@ PySocks==1.7.1
 pyspellchecker==0.8.1
 python-dateutil==2.9.0.post0
 pytz
-pywin32
 pyzmq==26.2.0
 referencing==0.35.1
 regex==2024.9.11
