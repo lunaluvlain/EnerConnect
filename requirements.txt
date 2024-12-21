@@ -78,7 +78,7 @@ pyproj==3.7.0
 PySocks==1.7.1
 pyspellchecker==0.8.1
 python-dateutil==2.9.0.post0
-pytz==2024.2
+pytz
 pywin32
 pyzmq==26.2.0
 referencing==0.35.1
